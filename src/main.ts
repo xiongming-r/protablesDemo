@@ -4,7 +4,7 @@ import App from './App.vue'
 import ElementPlus from "element-plus";
 import { createI18n } from 'vue-i18n'
 import ProTable from "protables"
-import 'protable/dist/style.css'
+import 'protables/dist/style.css'
 // element css
 import "element-plus/dist/index.css";
 // element dark css
