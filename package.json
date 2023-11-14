@@ -1,0 +1,25 @@
+{
+  "name": "testtable",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "axios": "^1.6.0",
+    "element-plus": "^2.4.2",
+    "protables": "^0.0.9",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}
